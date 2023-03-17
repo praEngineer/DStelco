@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="460d9d601be52910baac766e034bcb4d" label="DStelcoVerizonMonthly" max_length="40" name="x_dosny_dstelco_dstelcoverizonmonthly" type="collection">
+        <element label="Billing Invoice Number" max_length="10" name="billing_invoice_number" type="string"/>
+        <element default="MM/DD/YYYY - MM/DD/YYYY" label="Billing Period" max_length="23" name="billing_period" type="string"/>
+        <element label="Bill Date" max_length="40" name="bill_date" type="glide_date"/>
+        <element label="Cost Center" max_length="8" name="cost_center" type="string"/>
+        <element label="Data Price Plan Access Amt" max_length="20" name="data_price_plan_access_amt" type="currency"/>
+        <element label="Device Type" max_length="255" name="device_type" type="string"/>
+        <element label="Equipment Name" max_length="255" name="equipment_name" type="string"/>
+        <element label="Insurance Feat Srvc Amt" max_length="40" name="insurance_feat_srvc_amt" type="integer"/>
+        <element label="Location Based Feat Srvc Amt" max_length="40" name="location_based_feat_srvc_amt" type="integer"/>
+        <element label="MBB Connect Feat Srvc Amt" max_length="40" name="mbb_connect_feat_srvc_amt" type="integer"/>
+        <element label="MBB Feat Srvc Amt" max_length="40" name="mbb_feat_srvc_amt" type="integer"/>
+        <element default="0000000000" label="Mobile Telephone Number" max_length="10" name="mobile_telephone_number" type="string"/>
+        <element label="Mobile Web Feat Srvc Amt" max_length="40" name="mobile_web_feat_srvc_amt" type="integer"/>
+        <element label="Price Plan Code" max_length="5" name="price_plan_code" type="string"/>
+        <element label="Price Plan Description" max_length="255" name="price_plan_description" type="string"/>
+        <element label="Price Plan Minutes Allowed" max_length="40" name="price_plan_minutes_allowed" type="integer"/>
+        <element default="- empty -" label="Price Plan Share Type" max_length="255" name="price_plan_share_type" type="string"/>
+        <element label="Retail Price Plan Access Amt" max_length="20" name="retail_price_plan_access_amt" type="currency"/>
+        <element label="Ringback Tones Feat Srvc Amt" max_length="40" name="ringback_tones_feat_srvc_amt" type="integer"/>
+        <element label="Roadside Assist Feat Srvc Amt" max_length="40" name="roadside_assist_feat_srvc_amt" type="integer"/>
+        <element label="Text/Pix Feat Srvc Amt" max_length="40" name="text_pix_feat_srvc_amt" type="integer"/>
+        <element label="Total Price Plan Access Amt" max_length="20" name="total_price_plan_access_amt" type="currency"/>
+        <element default="Verizon Monthly User Name string" label="User Name" max_length="255" name="user_name" type="string"/>
+        <element label="Vcast Feat Srvc Amt" max_length="40" name="vcast_feat_srvc_amt" type="integer"/>
+        <element label="Voice Price Plan Access Amt" max_length="40" name="voice_price_plan_access_amt" type="integer"/>
+    </element>
+</database>

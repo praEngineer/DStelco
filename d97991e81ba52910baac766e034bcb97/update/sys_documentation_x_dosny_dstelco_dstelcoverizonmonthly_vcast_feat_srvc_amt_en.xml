@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="vcast_feat_srvc_amt" label="Vcast Feat Srvc Amt" language="en" table="x_dosny_dstelco_dstelcoverizonmonthly">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vcast_feat_srvc_amt</element>
+            <help/>
+            <hint/>
+            <label>Vcast Feat Srvc Amt</label>
+            <language>en</language>
+            <name>x_dosny_dstelco_dstelcoverizonmonthly</name>
+            <plural>Vcast Feat Srvc Amts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-03-09 22:03:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Vcast Feat Srvc Amt</sys_name>
+            <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+            <sys_update_name>sys_documentation_x_dosny_dstelco_dstelcoverizonmonthly_vcast_feat_srvc_amt_en</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-03-09 22:03:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
