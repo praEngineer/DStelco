@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sys_m2m" version="2" view="servicedeskassets">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Many to Many Definition - ServiceDeskAssets" name="sys_m2m" related_list="NULL" sys_domain="global" view="4b3445a41b466150baac766e034bcb55">197785681b466150baac766e034bcbce</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:09e81282876120106e337f9719cb0b39</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:40:07</sys_created_on>
+            <sys_id>157785681b466150baac766e034bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:40:07</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Many to Many Definition - ServiceDeskAssets</calculated_name>
+            <filter/>
+            <name>sys_m2m</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:40:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>197785681b466150baac766e034bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Many to Many Definition - ServiceDeskAssets</sys_name>
+            <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+            <sys_update_name>sys_ui_related_sys_m2m_servicedeskassets</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:40:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="ServiceDeskAssets" name="servicedeskassets">4b3445a41b466150baac766e034bcb55</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

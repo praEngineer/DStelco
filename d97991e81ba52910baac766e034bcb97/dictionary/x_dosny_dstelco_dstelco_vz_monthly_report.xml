@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b8170a01b066150baac766e034bcbb2" extends="sys_import_set_row" label="VerizonReportMar2023" max_length="40" name="x_dosny_dstelco_dstelco_vz_monthly_report" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account number" label="Account number" max_length="40" name="u_account_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Billing cycle date" label="Billing cycle date" max_length="40" name="u_billing_cycle_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost center" label="Cost center" max_length="40" name="u_cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Current device ID - 4G only" label="Current device ID - 4G only" max_length="40" name="u_current_device_id___4g_only" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device manufacturer" label="Device manufacturer" max_length="40" name="u_device_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Device model" label="Device model" max_length="40" name="u_device_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email address" label="Email address" max_length="42" name="u_email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Price plan description" label="Price plan description" max_length="127" name="u_price_plan_description" type="string"/>
+        <element attributes="import_attribute_name=Price plan ID" label="Price plan ID" max_length="40" name="u_price_plan_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Shipped device ID" label="Shipped device ID" max_length="40" name="u_shipped_device_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SIM" label="SIM" max_length="40" name="u_sim" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User ID" label="User ID" max_length="40" name="u_user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=User name" label="User name" max_length="46" name="u_user_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Wireless number" label="Wireless number" max_length="40" name="u_wireless_number" type="string"/>
+    </element>
+</database>

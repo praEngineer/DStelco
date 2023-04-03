@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table_field">
+    <sys_db_view_table_field action="DELETE">
+        <field>email_address</field>
+        <sys_class_name>sys_db_view_table_field</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-03 17:14:11</sys_created_on>
+        <sys_id>7c3f45601b866150baac766e034bcb2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>email_address</sys_name>
+        <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+        <sys_update_name>sys_db_view_table_field_7c3f45601b866150baac766e034bcb2e</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-03 17:14:11</sys_updated_on>
+        <table>x_dosny_dstelco_verizonreportmmmyyyy</table>
+        <view_table display_value="x_dosny_dstelco_verizonreportmmmyyyy">fe4909e81b466150baac766e034bcb7c</view_table>
+    </sys_db_view_table_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DStelco">d97991e81ba52910baac766e034bcb97</application>
+        <file_path/>
+        <instance_id>d1068f71dbe79b08439ef70fbf96194a</instance_id>
+        <instance_name>nycdsdev1</instance_name>
+        <name>sys_db_view_table_field_7c3f45601b866150baac766e034bcb2e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table_field"><sys_db_view_table_field action="INSERT_OR_UPDATE"><field>email_address</field><sys_class_name>sys_db_view_table_field</sys_class_name><sys_created_by>sfarkas</sys_created_by><sys_created_on>2023-04-03 17:14:11</sys_created_on><sys_id>7c3f45601b866150baac766e034bcb2e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>email_address</sys_name><sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package><sys_policy/><sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope><sys_update_name>sys_db_view_table_field_7c3f45601b866150baac766e034bcb2e</sys_update_name><sys_updated_by>sfarkas</sys_updated_by><sys_updated_on>2023-04-03 17:14:11</sys_updated_on><table>x_dosny_dstelco_verizonreportmmmyyyy</table><view_table display_value="x_dosny_dstelco_verizonreportmmmyyyy">fe4909e81b466150baac766e034bcb7c</view_table></sys_db_view_table_field></record_update>]]></payload>
+        <payload_hash>1080085019</payload_hash>
+        <record_name>email_address</record_name>
+        <reverted_from/>
+        <source>0d1c90a81b826150baac766e034bcb2e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-03 17:14:11</sys_created_on>
+        <sys_id>e84f45601b866150baac766e034bcb55</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187481cad390000001</sys_recorded_at>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-03 17:14:11</sys_updated_on>
+        <type>View Field</type>
+        <update_guid>d04f4560c0866150b5278d9fcfe78955</update_guid>
+        <update_guid_history>d04f4560c0866150b5278d9fcfe78955:1080085019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-03 17:15:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_view_table_field">sys_db_view_table_field</sys_db_object>
+        <sys_id>05b8ef520b1a40f880398116c7eab9f9</sys_id>
+        <sys_metadata>7c3f45601b866150baac766e034bcb2e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>email_address</sys_name>
+        <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+        <sys_parent display_value="x_dosny_dstelco_verizonreportmmmyyyy">fe4909e81b466150baac766e034bcb7c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+        <sys_scope_delete display_value="">ad81b47b7d564bed847064920ee292e1</sys_scope_delete>
+        <sys_update_name>sys_db_view_table_field_7c3f45601b866150baac766e034bcb2e</sys_update_name>
+        <sys_update_version display_value="sys_db_view_table_field_7c3f45601b866150baac766e034bcb2e">e84f45601b866150baac766e034bcb55</sys_update_version>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-03 17:15:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

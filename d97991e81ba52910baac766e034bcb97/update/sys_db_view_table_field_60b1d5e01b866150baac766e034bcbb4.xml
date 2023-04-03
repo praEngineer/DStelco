@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table_field">
+    <sys_db_view_table_field action="INSERT_OR_UPDATE">
+        <field>user_name</field>
+        <sys_class_name>sys_db_view_table_field</sys_class_name>
+        <sys_created_by>sfarkas</sys_created_by>
+        <sys_created_on>2023-04-03 17:24:59</sys_created_on>
+        <sys_id>60b1d5e01b866150baac766e034bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_name</sys_name>
+        <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+        <sys_update_name>sys_db_view_table_field_60b1d5e01b866150baac766e034bcbb4</sys_update_name>
+        <sys_updated_by>sfarkas</sys_updated_by>
+        <sys_updated_on>2023-04-03 17:24:59</sys_updated_on>
+        <table>sys_user</table>
+        <view_table display_value="sys_user">32ab8d6c1b466150baac766e034bcb85</view_table>
+    </sys_db_view_table_field>
+</record_update>

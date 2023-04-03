@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_411_charges" label="411 Charges" language="en" table="x_dosny_dstelco_dstelcoverizonmonthly">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_411_charges</element>
+            <help/>
+            <hint/>
+            <label>411 Charges</label>
+            <language>en</language>
+            <name>x_dosny_dstelco_dstelcoverizonmonthly</name>
+            <plural>411 Charges</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 14:04:53</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>411 Charges</sys_name>
+            <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+            <sys_update_name>sys_documentation_x_dosny_dstelco_dstelcoverizonmonthly_u_411_charges_en</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 14:04:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

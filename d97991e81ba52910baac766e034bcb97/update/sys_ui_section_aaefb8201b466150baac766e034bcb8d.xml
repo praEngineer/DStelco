@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="aaefb8201b466150baac766e034bcb8d" sys_domain="global" table="x_dosny_dstelco_verizonreportmmmyyyy" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>6d1049a01b466150baac766e034bcbd0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wireless_number</element>
+            <position>1</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>611049a01b466150baac766e034bcbd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>account_number</element>
+            <position>2</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>651049a01b466150baac766e034bcbd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billing_cycle_date</element>
+            <position>3</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>691049a01b466150baac766e034bcbd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>6d1049a01b466150baac766e034bcbd1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost_center</element>
+            <position>5</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>611049a01b466150baac766e034bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>current_device_id_4g_only</element>
+            <position>6</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>651049a01b466150baac766e034bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_manufacturer</element>
+            <position>7</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>691049a01b466150baac766e034bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>6d1049a01b466150baac766e034bcbd2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_model</element>
+            <position>9</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>611049a01b466150baac766e034bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>M2M.x_dosny_dstelco_verizonreportmmmyyyy.x_dosny_dstelco_x_dosny_vzmonthly_m2m_x_dosny_adsvc.x_dosny_dstelco_verizonreportmmmyyyy</element>
+            <position>10</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>651049a01b466150baac766e034bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_address</element>
+            <position>11</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>691049a01b466150baac766e034bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price_plan_id</element>
+            <position>12</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>6d1049a01b466150baac766e034bcbd3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price_plan_description</element>
+            <position>13</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>611049a01b466150baac766e034bcbd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>14</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>651049a01b466150baac766e034bcbd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sim</element>
+            <position>15</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>691049a01b466150baac766e034bcbd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>16</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>6d1049a01b466150baac766e034bcbd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shipped_device</element>
+            <position>17</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>611049a01b466150baac766e034bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>651049a01b466150baac766e034bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>19</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>691049a01b466150baac766e034bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>20</position>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:55</sys_created_on>
+            <sys_id>6d1049a01b466150baac766e034bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_dosny_dstelco_verizonreportmmmyyyy" sys_domain="global" view="Default view">aaefb8201b466150baac766e034bcb8d</sys_ui_section>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_dosny_dstelco_verizonreportmmmyyyy</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sfarkas</sys_created_by>
+            <sys_created_on>2023-04-03 16:07:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaefb8201b466150baac766e034bcb8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_dosny_dstelco_verizonreportmmmyyyy</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DStelco" source="x_dosny_dstelco">d97991e81ba52910baac766e034bcb97</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DStelco">d97991e81ba52910baac766e034bcb97</sys_scope>
+            <sys_update_name>sys_ui_section_aaefb8201b466150baac766e034bcb8d</sys_update_name>
+            <sys_updated_by>sfarkas</sys_updated_by>
+            <sys_updated_on>2023-04-03 16:07:09</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

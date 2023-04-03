@@ -1,29 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="460d9d601be52910baac766e034bcb4d" label="DStelcoVerizonMonthly" max_length="40" name="x_dosny_dstelco_dstelcoverizonmonthly" type="collection">
+        <element label="Acct Level OC&amp;C's" max_length="20" name="acct_level_oc_c_s" type="currency"/>
         <element label="Billing Invoice Number" max_length="10" name="billing_invoice_number" type="string"/>
         <element default="MM/DD/YYYY - MM/DD/YYYY" label="Billing Period" max_length="23" name="billing_period" type="string"/>
         <element label="Bill Date" max_length="40" name="bill_date" type="glide_date"/>
+        <element label="Bill Off Peak MOU" max_length="40" name="bill_off_peak_mou" type="integer"/>
+        <element label="Bill Peak MOU" max_length="40" name="bill_peak_mou" type="integer"/>
         <element label="Cost Center" max_length="8" name="cost_center" type="string"/>
+        <element label="Data MOU" max_length="40" name="data_mou" type="integer"/>
         <element label="Data Price Plan Access Amt" max_length="20" name="data_price_plan_access_amt" type="currency"/>
+        <element label="Device Decimal ESN Number" max_length="19" name="device_decimal_esn_number" type="string"/>
         <element label="Device Type" max_length="255" name="device_type" type="string"/>
+        <element label="Domestic KBU" max_length="40" name="domestic_kbu" type="integer"/>
+        <element label="Domestic KBU Charges" max_length="20" name="domestic_kbu_charges" type="currency"/>
+        <element label="Domestic Long Dist Amt" max_length="20" name="domestic_long_dist_amt" type="currency"/>
+        <element label="Equipment Amt" max_length="20" name="equipment_amt" type="currency"/>
         <element label="Equipment Name" max_length="255" name="equipment_name" type="string"/>
+        <element label="Friends &amp; Family Offpk MOU" max_length="40" name="friends_family_offpk_mou" type="integer"/>
+        <element label="Friends &amp; Family Peak MOU" max_length="40" name="friends_family_peak_mou" type="integer"/>
+        <element label="Get It Now Download Charges" max_length="20" name="get_it_now_download_charges" type="currency"/>
+        <element label="Get It Now Download Count" max_length="40" name="get_it_now_download_count" type="integer"/>
+        <element label="Global Roaming KBU Charges" max_length="20" name="global_roaming_kbu_charges" type="currency"/>
+        <element label="Global Voice Roaming Charges" max_length="20" name="global_voice_roaming_charges" type="currency"/>
         <element label="Insurance Feat Srvc Amt" max_length="40" name="insurance_feat_srvc_amt" type="integer"/>
+        <element label="intl Long Dist Amt" max_length="20" name="intl_long_dist_amt" type="currency"/>
+        <element label="intl Txt/Pix Amt" max_length="20" name="intl_txt_pix_amt" type="currency"/>
+        <element label="Intl Txt/Pix Count" max_length="40" name="intl_txt_pix_count" type="integer"/>
         <element label="Location Based Feat Srvc Amt" max_length="40" name="location_based_feat_srvc_amt" type="integer"/>
         <element label="MBB Connect Feat Srvc Amt" max_length="40" name="mbb_connect_feat_srvc_amt" type="integer"/>
+        <element label="MBB Connect KBU" max_length="40" name="mbb_connect_kbu" type="integer"/>
+        <element label="MBB Connect KBU Charges" max_length="20" name="mbb_connect_kbu_charges" type="currency"/>
         <element label="MBB Feat Srvc Amt" max_length="40" name="mbb_feat_srvc_amt" type="integer"/>
+        <element label="Minute Overage Charges" max_length="40" name="minute_overage_charges" type="integer"/>
+        <element label="MIN STatus" max_length="1" name="min_status" type="string"/>
+        <element label="Mobile2Mobile Offpk MOU" max_length="40" name="mobile2mobile_offpk_mou" type="integer"/>
+        <element label="Mobile2Mobile Peak MOU" max_length="40" name="mobile2mobile_peak_mou" type="integer"/>
         <element default="0000000000" label="Mobile Telephone Number" max_length="10" name="mobile_telephone_number" type="string"/>
         <element label="Mobile Web Feat Srvc Amt" max_length="40" name="mobile_web_feat_srvc_amt" type="integer"/>
+        <element label="MOU for Roaming" max_length="40" name="mou_for_roaming" type="integer"/>
+        <element label="Night &amp; Weekend MOU" max_length="40" name="night_weekend_mou" type="integer"/>
+        <element label="Other Charges" max_length="20" name="other_charges" type="currency"/>
+        <element label="Other Credits" max_length="20" name="other_credits" type="currency"/>
+        <element label="Oth Feat Srvc Amt" max_length="20" name="oth_feat_srvc_amt" type="currency"/>
+        <element label="Peak MOU" max_length="40" name="peak_mou" type="integer"/>
+        <element label="Pix/Flix msg Charges" max_length="20" name="pix_flix_msg_charges" type="currency"/>
+        <element label="Pix/Flix Msg Count" max_length="40" name="pix_flix_msg_count" type="integer"/>
+        <element label="Premium Text Msg Charges" max_length="20" name="premium_text_msg_charges" type="currency"/>
+        <element label="Premium Text Msg Count" max_length="40" name="premium_text_msg_count" type="integer"/>
         <element label="Price Plan Code" max_length="5" name="price_plan_code" type="string"/>
         <element label="Price Plan Description" max_length="255" name="price_plan_description" type="string"/>
         <element label="Price Plan Minutes Allowed" max_length="40" name="price_plan_minutes_allowed" type="integer"/>
         <element default="- empty -" label="Price Plan Share Type" max_length="255" name="price_plan_share_type" type="string"/>
+        <element label="Push to Talk MOU" max_length="40" name="push_to_talk_mou" type="integer"/>
         <element label="Retail Price Plan Access Amt" max_length="20" name="retail_price_plan_access_amt" type="currency"/>
         <element label="Ringback Tones Feat Srvc Amt" max_length="40" name="ringback_tones_feat_srvc_amt" type="integer"/>
         <element label="Roadside Assist Feat Srvc Amt" max_length="40" name="roadside_assist_feat_srvc_amt" type="integer"/>
+        <element label="Roaming KBU Charges" max_length="20" name="roaming_kbu_charges" type="currency"/>
+        <element label="SIM_NUM" max_length="24" name="sim_num" type="string"/>
+        <element label="Static IP Address" max_length="15" name="static_ip_address" type="string"/>
+        <element label="Tax &amp; Surcharge Amt" max_length="20" name="tax_surcharge_amt" type="currency"/>
+        <element label="Tax/Surcharge Credits" max_length="20" name="tax_surcharge_credits" type="currency"/>
+        <element label="Text Msg Charges" max_length="20" name="text_msg_charges" type="currency"/>
+        <element label="Text Msg Count" max_length="40" name="text_msg_count" type="integer"/>
         <element label="Text/Pix Feat Srvc Amt" max_length="40" name="text_pix_feat_srvc_amt" type="integer"/>
+        <element label="Total Bill" max_length="20" name="total_bill" type="currency"/>
+        <element label="Total Data Overage Charges" max_length="20" name="total_data_overage_charges" type="currency"/>
+        <element label="Total Feat Srvc Amt" max_length="20" name="total_feat_srvc_amt" type="currency"/>
+        <element label="total Friends &amp; Family MOU" max_length="40" name="total_friends_family_mou" type="integer"/>
+        <element label="Total KBU" max_length="40" name="total_kbu" type="integer"/>
+        <element label="Total KBU Charges" max_length="20" name="total_kbu_charges" type="currency"/>
+        <element label="Total Long Dist MOU" max_length="40" name="total_long_dist_mou" type="integer"/>
+        <element label="Total Mobile2Mobile MOU" max_length="40" name="total_mobile2mobile_mou" type="integer"/>
+        <element label="Total MOU" max_length="40" name="total_mou" type="integer"/>
+        <element label="Total Msg Charges" max_length="20" name="total_msg_charges" type="currency"/>
+        <element label="Total Msg Count" max_length="40" name="total_msg_count" type="integer"/>
         <element label="Total Price Plan Access Amt" max_length="20" name="total_price_plan_access_amt" type="currency"/>
+        <element label="Total Voice Overage Charges" max_length="20" name="total_voice_overage_charges" type="currency"/>
+        <element label="Upgrade Eligibility Date" max_length="40" name="upgrade_eligibility_date" type="glide_date"/>
         <element default="Verizon Monthly User Name string" label="User Name" max_length="255" name="user_name" type="string"/>
+        <element label="411 Call Count" max_length="40" name="u_411_call_count" type="integer"/>
+        <element label="411 Charges" max_length="40" name="u_411_charges" type="integer"/>
         <element label="Vcast Feat Srvc Amt" max_length="40" name="vcast_feat_srvc_amt" type="integer"/>
         <element label="Voice Price Plan Access Amt" max_length="40" name="voice_price_plan_access_amt" type="integer"/>
+        <element label="Voice Roaming Charges" max_length="40" name="voice_roaming_charges" type="integer"/>
     </element>
 </database>

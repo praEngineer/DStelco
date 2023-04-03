@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="678fb8201b466150baac766e034bcb41" label="x_dosny_vzmonthly_m2m_VerizonReportMMMYYYYs_Active Directory Services" max_length="40" name="x_dosny_dstelco_x_dosny_vzmonthly_m2m_x_dosny_adsvc" type="collection">
+        <element attributes="encode_utf8=false" label="Active Directory Services" max_length="32" name="cmdb_ci_appl_active_directory" reference="cmdb_ci_appl_active_directory" type="reference"/>
+        <element attributes="encode_utf8=false" label="VerizonReportMMMYYYYs" max_length="32" name="x_dosny_dstelco_verizonreportmmmyyyy" reference="x_dosny_dstelco_verizonreportmmmyyyy" type="reference"/>
+        <index name="index">
+            <element name="cmdb_ci_appl_active_directory"/>
+        </index>
+    </element>
+</database>
